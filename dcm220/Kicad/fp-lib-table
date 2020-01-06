@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "EEZ DIB DCM220 r2B7")(type KiCad)(uri "$(KIPRJMOD)/EEZ DIB DCM220 r2B7.pretty")(options "")(descr ""))
+)

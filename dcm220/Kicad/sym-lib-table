@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name EEZ_DIB_DCM220_r2B7-eagle-import)(type Legacy)(uri ${KIPRJMOD}/EEZ_DIB_DCM220_r2B7-eagle-import.lib)(options "")(descr ""))
+)
